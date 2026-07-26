@@ -1,0 +1,35 @@
+Recomendações práticas e roadmap
+Prioridade A — ações imediatas (0–4 semanas)
+Playbook de resposta a fraude e débitos não autorizados: fluxo com SLA 24–48h, equipe dedicada, comunicação automática (SMS/in‑app) com passos claros para o cliente. Responsáveis: Segurança, Operações.
+
+Fila prioritária no SAC: roteamento automático de chats/ligação com palavras-chave (fraude, débito não autorizado, bloqueio). Responsável: Atendimento.
+
+Mensagens in‑app e SMS para estados críticos: “Transação em análise”, “Conta bloqueada por segurança — instruções”. Responsável: Produto/Comunicação.
+
+Monitoramento em tempo real de picos por tema com alertas automáticos. Responsável: CX Analytics.
+Prioridade B — correções e melhorias (1–3 meses)
+Auditoria técnica e testes de penetração em internet banking e integrações de cartão; aplicar hotfixes. Responsável: Engenharia/Security.
+
+Automação parcial de estornos Pix para casos simples; reduzir tempo de resolução. Responsável: Produto/Pagamentos.
+
+Treinamento e scripts do SAC para estornos, fraude e encerramento de conta; templates empáticos. Responsável: Atendimento/Treinamento.
+
+Dashboard CX por tema (volume, tendência, tempo de resolução, CSAT). Responsável: CX Analytics.
+
+Prioridade C — prevenção e redesign ( >3 meses )
+Autenticação adaptativa e prevenção de fraude (2FA, biometria, análise comportamental). Responsável: Segurança/Produto.
+
+Revisão da jornada de abertura/encerramento de conta para reduzir erros e reclamações processuais. Responsável: Produto/Operações.
+
+Transparência em crédito e cobranças: documentação clara no app, notificações prévias e canal de contestação simplificado. Responsável: Crédito/Compliance.
+
+Métricas para acompanhar impacto
+Redução de volume de reclamações por tema (% vs. baseline).
+
+Tempo médio de resolução por tema (horas/dias).
+
+CSAT/NPS por jornada (login, Pix, cartão, chat).
+
+Taxa de reincidência do mesmo problema por cliente.
+
+% de casos roteados para fila prioritária resolvidos no SLA.
